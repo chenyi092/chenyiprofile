@@ -3,12 +3,24 @@
     <title>chenyiprofile</title>
     <link href="https://chenyi092.github.io/chenyiprofile/feed.xml" rel="self" />
     <link href="https://chenyi092.github.io/chenyiprofile" />
-    <updated>2024-03-19T21:12:38+08:00</updated>
+    <updated>2024-03-19T21:46:23+08:00</updated>
     <author>
         <name>yi</name>
     </author>
     <id>https://chenyi092.github.io/chenyiprofile</id>
 
+    <entry>
+        <title>test2222</title>
+        <author>
+            <name>yi</name>
+        </author>
+        <link href="https://chenyi092.github.io/chenyiprofile/test2222.html"/>
+        <id>https://chenyi092.github.io/chenyiprofile/test2222.html</id>
+
+        <updated>2024-03-19T21:45:51+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>123,mic test</title>
         <author>
@@ -18,13 +30,22 @@
         <id>https://chenyi092.github.io/chenyiprofile/123mic-test.html</id>
 
         <updated>2024-03-19T21:12:38+08:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                    hello~
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    
+    hello~
   </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://chenyi092.github.io/chenyiprofile/media/posts/1/Jie-Tu-2023-11-28-Xia-Wu-3.02.41.png" height="758" width="974" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://chenyi092.github.io/chenyiprofile/media/posts/1/responsive/Jie-Tu-2023-11-28-Xia-Wu-3.02.41-xs.png 300w ,https://chenyi092.github.io/chenyiprofile/media/posts/1/responsive/Jie-Tu-2023-11-28-Xia-Wu-3.02.41-sm.png 480w ,https://chenyi092.github.io/chenyiprofile/media/posts/1/responsive/Jie-Tu-2023-11-28-Xia-Wu-3.02.41-md.png 768w ,https://chenyi092.github.io/chenyiprofile/media/posts/1/responsive/Jie-Tu-2023-11-28-Xia-Wu-3.02.41-lg.png 1024w">
+      
+    </figure>
             ]]>
         </content>
     </entry>
