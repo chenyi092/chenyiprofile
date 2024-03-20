@@ -3,7 +3,7 @@
     <title>chenyiprofile</title>
     <link href="https://chenyi092.github.io/chenyiprofile/feed.xml" rel="self" />
     <link href="https://chenyi092.github.io/chenyiprofile" />
-    <updated>2024-03-19T22:21:11+08:00</updated>
+    <updated>2024-03-20T11:02:55+08:00</updated>
     <author>
         <name>yi</name>
     </author>
@@ -59,16 +59,19 @@
         </author>
         <link href="https://chenyi092.github.io/chenyiprofile/123mic-test.html"/>
         <id>https://chenyi092.github.io/chenyiprofile/123mic-test.html</id>
+        <media:content url="https://chenyi092.github.io/chenyiprofile/media/posts/1/Jie-Tu-2023-11-28-Xia-Wu-3.03.49.png" medium="image" />
             <category term="test"/>
 
         <updated>2024-03-19T21:12:38+08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://chenyi092.github.io/chenyiprofile/media/posts/1/Jie-Tu-2023-11-28-Xia-Wu-3.03.49.png" alt="" />
                     hello~
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://chenyi092.github.io/chenyiprofile/media/posts/1/Jie-Tu-2023-11-28-Xia-Wu-3.03.49.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
     hello~
